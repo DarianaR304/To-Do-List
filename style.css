@@ -1,0 +1,113 @@
+body {
+   height: 100%;
+   width: 100%;
+   background-image: url(images/fondo.jpg);
+   background-size: 100%;
+}
+
+.header {
+   background-color: #fff;
+   height: 60px;
+   width: 1330px;
+   margin-top: -10px;
+   margin-left: 100px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+}
+
+
+
+.inicio {
+   float: right;
+   padding-top: 10px;
+}
+
+ul {
+   display: block;
+   margin-top: 200px;
+}
+
+li {
+   display: inline-block;
+   margin-left: 90px;
+   margin-right: 5px;
+}
+
+a {
+   font-family: 'Darker Grotesque';
+   font-size: 25px;
+   cursor: pointer;
+}
+
+.contenedor {
+   background-color: #fff;
+   height: 500px;
+   width: 1000px;
+   margin-left: 275px;
+   margin-top: 75px;
+   border-radius: 10px;
+}
+
+.pregunta {
+   margin-left: 20px;
+   margin-bottom: 30px;
+   width: 460px;
+}
+
+h3 {
+   font-family: 'Darker Grotesque';
+}
+
+Span {
+  font-family: 'Chelsea Market';
+  font-size: 25px;
+}
+
+
+.formulario {
+   margin-left: 20px;
+}
+
+.contacto {
+   margin-left: 750px;
+   margin-top: -500px;
+ 
+}
+
+img {
+   height: 500px;
+   width: 500px;
+}
+
+.nav1 {
+   margin-top: 15px;
+}
+
+.navimage1 {
+   margin-top: -13px;
+   margin-left: 20px;
+   height: 50px;
+   width: 50px;
+}
+
+h1 {
+   padding-top: 5px;
+   display: inline-block;
+   margin-top: 100px;
+   font-family: 'Economica';
+ 
+}
+
+.btn {
+   font-family: 'Chelsea Market';
+}
+
+.form-label {
+   font-family: 'Epilogue'
+}
+
+.form-text {
+   font-family: 'Epilogue'
+}
